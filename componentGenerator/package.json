@@ -1,0 +1,11 @@
+{
+  "name": "componentgenerator",
+  "version": "1.0.0",
+  "description": "generate react components",
+  "main": "index.js",
+  "author": "Elijah Parkhurst",
+  "license": "ISC",
+  "bin": {
+    "generate": "./index.js"
+  }
+}
